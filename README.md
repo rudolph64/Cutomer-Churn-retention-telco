@@ -16,7 +16,7 @@ Clients/Stakeholders: Sales director, marketing director, customer service direc
 End results: An automated dashboard providing a quick & real latest customer churn insights in order to make data driven decisions. 
 Success criteria: Dashboard displaying providing a quick & real latest customer churn insights. Use this data and reduce overall customer churn by 12%.
 
-I create a demo dashboard to get the clients onboard using their own sample data from csv file. 
+I created a demo dashboard to get the clients onboard using their own sample data from csv file. 
 
 Now we do basic analysis of the csv files in excel like checking the no of tables, no of column & rows, null & garbage & 0 values, dates, important primary keys, data types, important KPI data, etc 
 Now we extract and upload the csv file file into Power BI. Review all the tables in the data tab of Power BI. Start with processing and cleaning the data using power query editor. Then creating a Dashboard displaying demo dashboard having two linked pages namely 1)identify the main indicators of churn 2) details of churned customers.
