@@ -7,7 +7,7 @@ In the telecom industry, customers are able to choose from multiple service prov
 Business Goal
 In this project, I will analyse customer-level sample data of a leading telecom firm, build a dasboard for consisting details of churned customers and identify the main indicators of churn. 
 
-Different churns in teleco
+Different churns in teleco:
 Traffic plan, monthly service sub churn, product(postpaid to prepaid), sub(porting A to B)
 
 Now we use AIMS grid to get 
